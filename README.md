@@ -24,11 +24,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/cwlee97/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/cwlee97/LeetCode/tree/master/0016-3sum-closest) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cwlee97/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/cwlee97/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/cwlee97/LeetCode/tree/master/0016-3sum-closest) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cwlee97/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cwlee97/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/cwlee97/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
@@ -62,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/cwlee97/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cwlee97/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
